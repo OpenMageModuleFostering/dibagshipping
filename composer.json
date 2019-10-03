@@ -1,16 +1,19 @@
 {
-    "name": "OpenMageModuleFostering/dibagshipping",
+    "name": "OpenMageModuleFostering\/dibagshipping",
     "type": "magento-module",
     "license": "OSL",
     "homepage": "",
     "description": "Real-time shipping and delivery options from multiple Australian couriers, batch upload csv product dimension.",
     "authors": [
-    {
-        "name": "Faisal Khalil",
-        "email": "faisal@di.net.au"
-    }
-],
+        {
+            "name": "Faisal Khalil",
+            "email": "faisal@di.net.au"
+        }
+    ],
     "suggest": {
-        "magento-hackathon/magento-composer-installer": "*"
-    }
+        "magento-hackathon\/magento-composer-installer": "*"
+    },
+    "keywords": [
+        "openmage-module"
+    ]
 }
