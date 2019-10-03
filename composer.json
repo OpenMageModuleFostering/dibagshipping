@@ -1,7 +1,7 @@
 {
-    "name": "OpenMageModuleFostering\/dibagshipping",
+    "name": "openmage-module-fostering\/dibagshipping",
     "type": "magento-module",
-    "license": "OSL",
+    "license": "OSL-3.0",
     "homepage": "",
     "description": "Real-time shipping and delivery options from multiple Australian couriers, batch upload csv product dimension.",
     "authors": [
